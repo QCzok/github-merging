@@ -1,1 +1,5 @@
-Hallo Welt
+<<<<<<< HEAD
+Halloq Welt
+=======
+Hallo Deutschland
+>>>>>>> conflict
